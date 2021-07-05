@@ -3,7 +3,7 @@
 This provide a simple procedure on model deployment using flask
 
 
-Prerequisites
+### Prerequisites ###
 Install  pandas, Pandas,Scikit Learn, and Flask for API.
 
 1. Create a virtual environment
@@ -12,7 +12,7 @@ virtual enviroment nevn
 
 Windows: mypthon\Scripts\activate
 
-The project parts:
+### The project parts: ###
 
 1. model.py: contains the model codes.
 2. app.py: contain Flask API codes.
@@ -20,7 +20,7 @@ The project parts:
 4. static: contains the css folder for style.css
 
 
-Running the project:
+### Running the project: ###
 
 1. In project home page, create a machine learning model from command prompt run python model.py
  Serialized version of the model is created into a new file model.pkl
@@ -34,11 +34,6 @@ Flask will run on port 5000.
 4. Enter valid values into 3 boxes and click predict.
 
 5. The result should be displayed on html page.
-
-
-
-
-
 
 
 
