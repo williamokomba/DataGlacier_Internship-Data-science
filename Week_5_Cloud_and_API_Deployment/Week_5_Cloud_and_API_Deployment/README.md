@@ -38,6 +38,16 @@ Flask will run on port 5000.
 
 5. The result should be displayed on html page.
 
+6. Register with heroku, ensure to create procfile and requirements.txt files correctly.
+ 
+8. load the required files into Github and Git commit.
+
+10. connect the Github repostory with the files into heroku.
+
+11. let the files load and view the url.
+
+12. the API is ready and you can now test it by inputing the values.
+
 
 
 Flask version: 1.1.2 conda install flask (or) pip install Flask
