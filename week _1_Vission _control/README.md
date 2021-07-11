@@ -27,7 +27,7 @@ Attempt History
 
 Attempt	Time	Score
 
-LATEST	Attempt 1	1,412 minutes	4 out of 4
+LATEST	Attempt 12 minutes	4 out of 4
 
 Score for this quiz: 4 out of 4
 
