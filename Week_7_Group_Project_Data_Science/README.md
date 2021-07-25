@@ -23,7 +23,9 @@ be difficult for business to campaign based on duration.
 
 Imbalance data set : If dataset is imbalance then try to use techniques to handle imbalance data set and report model performance of each imbalance technique used (avoid techniques which recommend not to utilize whole available data)
 
-Task: dataset: https://archive.ics.uci.edu/ml/datasets/Bank+Marketing
+Dataset: https://archive.ics.uci.edu/ml/datasets/Bank+Marketing
+
+Task: 
 
 Problem description
 
